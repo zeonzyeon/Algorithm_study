@@ -1,8 +1,4 @@
 # Algorithm Study
-<details>
-<summary>코딩테스트 공부</summary>
-
-<br>
 
 사용언어
 - <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white"/>
@@ -12,4 +8,3 @@
 - [Programmers](https://programmers.co.kr)
 - [Baekjoon](https://www.acmicpc.net)
 
-</details>
